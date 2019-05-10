@@ -1,0 +1,5 @@
+APPEND
+This is new file and the mode is append.
+
+This is new file and the mode is append.
+
